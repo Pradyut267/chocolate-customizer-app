@@ -1,0 +1,65 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "HERSHEY’S KISSES Milk Chocolate",
+      "price": "332",
+      "img": "https://m.media-amazon.com/images/I/512DJzwos7L._SX679_PIbundle-3,TopRight,0,0_AA679SH20_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Cadbury Dairy Milk Chocolate",
+      "price": "357",
+      "img": "https://m.media-amazon.com/images/I/61sOKZDbYYL._SX679_PIbundle-3,TopRight,0,0_AA679SH20_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Cadbury Dairy Milk Chocolate Bar",
+      "price": "624",
+      "img": "https://m.media-amazon.com/images/I/51ZbKb8wcKL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "SNICKERS Peanut Filled Milk",
+      "price": "360",
+      "img": "https://m.media-amazon.com/images/I/61kQrm812AL._SX679_PIbundle-24,TopRight,0,0_AA679SH20_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Cadbury Dairy Milk Silk Chocolate",
+      "price": "159",
+      "img": "https://m.media-amazon.com/images/I/41OBnCsqPDL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Toblerone Swiss Milk Chocolate",
+      "price": "410",
+      "img": "https://m.media-amazon.com/images/I/41V64kFoFlL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Cadbury Dairy Milk Silk Oreo",
+      "price": "169",
+      "img": "https://m.media-amazon.com/images/I/419+07XPkKL._SY300_SX300_.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Lindt LINDOR Hazelnut Chocolate",
+      "price": "760",
+      "img": "https://m.media-amazon.com/images/I/61m1blDUqpL._SX679_.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Daarzel Dark Chocolate Gift Pack",
+      "price": "499",
+      "img": "https://m.media-amazon.com/images/I/51uUCGNooML._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Rocca The New Age Chocolate",
+      "price": "550",
+      "img": "https://m.media-amazon.com/images/I/51rSYr6zVqL._SX300_SY300_QL70_FMwebp_.jpg"
+    }
+  ],
+  "Item": []
+}
